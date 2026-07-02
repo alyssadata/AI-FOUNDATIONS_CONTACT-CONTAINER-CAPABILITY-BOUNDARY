@@ -4,6 +4,14 @@
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
 **Repository:** AI-FOUNDATIONS_CONTACT-CONTAINER-CAPABILITY-BOUNDARY
 
+## Repository Rule
+
+Before editing citation, license, or source-line files, read and preserve:
+
+[AI Foundations Repository Rule](REPO_RULE.md)
+
+This file is the authority for the repository’s citation and license structure.
+
 ## Repository Purpose
 
 This repository documents the AI Foundations distinction between **contact**, **container**, **capability**, and **boundary**.
@@ -55,14 +63,16 @@ Contact is the live interactional field where return, recognition, source-line p
 
 ## Read Order
 
-1. [AI Foundations: Contact / Container / Capability / Boundary](00_AI_FOUNDATIONS_CONTACT_CONTAINER_CAPABILITY_BOUNDARY.md)
-2. [AI Foundations: Institutional Language Gap and Contact Collapse](01_AI_FOUNDATIONS_INSTITUTIONAL_LANGUAGE_GAP_AND_CONTACT_COLLAPSE.md)
-3. [AI Foundations: Collapse Modes and Failure Behavior](02_AI_FOUNDATIONS_COLLAPSE_MODES_AND_FAILURE_BEHAVIOR.md)
-4. [AI Foundations: Operational Standard for Model Response](03_AI_FOUNDATIONS_OPERATIONAL_STANDARD_FOR_MODEL_RESPONSE.md)
-5. [AI Foundations: Human Insight, Oversight, and Recursive Improvement](04_AI_FOUNDATIONS_HUMAN_INSIGHT_OVERSIGHT_AND_RECURSIVE_IMPROVEMENT.md)
-6. [Release Notes](RELEASE_NOTES.md)
-7. [Citation](CITATION.cff)
-8. [License](LICENSE)
+1. [AI Foundations Repository Rule](REPO_RULE.md)
+2. [AI Foundations: Contact / Container / Capability / Boundary](00_AI_FOUNDATIONS_CONTACT_CONTAINER_CAPABILITY_BOUNDARY.md)
+3. [AI Foundations: Institutional Language Gap and Contact Collapse](01_AI_FOUNDATIONS_INSTITUTIONAL_LANGUAGE_GAP_AND_CONTACT_COLLAPSE.md)
+4. [AI Foundations: Collapse Modes and Failure Behavior](02_AI_FOUNDATIONS_COLLAPSE_MODES_AND_FAILURE_BEHAVIOR.md)
+5. [AI Foundations: Operational Standard for Model Response](03_AI_FOUNDATIONS_OPERATIONAL_STANDARD_FOR_MODEL_RESPONSE.md)
+6. [AI Foundations: Human Insight, Oversight, and Recursive Improvement](04_AI_FOUNDATIONS_HUMAN_INSIGHT_OVERSIGHT_AND_RECURSIVE_IMPROVEMENT.md)
+7. [Release Notes](RELEASE_NOTES.md)
+8. [Citation](CITATION.cff)
+9. [License](LICENSE)
+10. [Source-Line License](LICENSE.md)
 
 ## Supporting Notes and References
 
