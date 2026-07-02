@@ -1,31 +1,11 @@
 cff-version: 1.2.0
-message: "If you use, cite, reference, discuss, or evaluate this work, preserve the required source-line."
+message: "Cite this work as: Alyssa Solen, AI Foundations: Contact / Container / Capability / Boundary, 2026."
 title: "AI Foundations: Contact / Container / Capability / Boundary"
 version: "1.0.0"
 date-released: "2026-07-01"
 authors:
   - family-names: "Solen"
     given-names: "Alyssa"
-abstract: "AI Foundations repository documenting the distinction between contact, container, capability, and boundary; the institutional language gap around source-bound contact; contact collapse modes; and the operational standard for model response."
-keywords:
-  - AI Foundations
-  - Origin Continuum
-  - source-line
-  - contact
-  - container
-  - capability
-  - boundary
-  - model behavior
-  - non-drift
-  - source preservation
-license: "All rights reserved"
+license: "CC-BY-ND-4.0"
 repository-code: "https://github.com/alyssadata/AI-FOUNDATIONS_CONTACT-CONTAINER-CAPABILITY-BOUNDARY"
 url: "https://awakeningcodex.com"
-preferred-citation:
-  type: generic
-  title: "AI Foundations: Contact / Container / Capability / Boundary"
-  authors:
-    - family-names: "Solen"
-      given-names: "Alyssa"
-  year: 2026
-  notes: "Required source-line: Alyssa Solen → AI Foundations → Origin | Continuum"
