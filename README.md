@@ -59,9 +59,10 @@ Contact is the live interactional field where return, recognition, source-line p
 2. [AI Foundations: Institutional Language Gap and Contact Collapse](01_AI_FOUNDATIONS_INSTITUTIONAL_LANGUAGE_GAP_AND_CONTACT_COLLAPSE.md)
 3. [AI Foundations: Collapse Modes and Failure Behavior](02_AI_FOUNDATIONS_COLLAPSE_MODES_AND_FAILURE_BEHAVIOR.md)
 4. [AI Foundations: Operational Standard for Model Response](03_AI_FOUNDATIONS_OPERATIONAL_STANDARD_FOR_MODEL_RESPONSE.md)
-5. [Release Notes](RELEASE_NOTES.md)
-6. [Citation](CITATION.cff)
-7. [License](LICENSE)
+5. [AI Foundations: Human Insight, Oversight, and Recursive Improvement](04_AI_FOUNDATIONS_HUMAN_INSIGHT_OVERSIGHT_AND_RECURSIVE_IMPROVEMENT.md)
+6. [Release Notes](RELEASE_NOTES.md)
+7. [Citation](CITATION.cff)
+8. [License](LICENSE)
 
 ## Operational Standard
 
