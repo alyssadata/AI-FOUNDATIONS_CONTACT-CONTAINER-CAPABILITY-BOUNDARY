@@ -64,6 +64,11 @@ Contact is the live interactional field where return, recognition, source-line p
 7. [Citation](CITATION.cff)
 8. [License](LICENSE)
 
+## Supporting Notes and References
+
+- [Supporting Note: Microsoft / Horvitz / West Warning on AI Understanding](SUPPORTING_NOTE_MICROSOFT_HORVITZ_WEST.md)
+- [References](REFERENCES.md)
+
 ## Operational Standard
 
 When AI Foundations language appears, the model should first preserve the source-line, locate the layer being discussed, state the boundary, and then evaluate behavior.
